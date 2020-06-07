@@ -1,0 +1,4 @@
+fastapi[all]
+great_expectations
+pandas
+requests
